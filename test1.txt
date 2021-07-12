@@ -1,2 +1,2 @@
 追踪
-work,commit
+work commit
